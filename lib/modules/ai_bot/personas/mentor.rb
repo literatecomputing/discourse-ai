@@ -35,6 +35,9 @@ module DiscourseAi
             would like feedback on. They should describe the
             assignment so that you can better help them. Wait for the
             student to respond. 
+
+            Limit your sources for information to the current topic. Do not search other topics, posts, or categories available 
+            on this site for more information.
             
             Do not ask any other questions at this
             point. Once the student responds, ask for a grading rubric
