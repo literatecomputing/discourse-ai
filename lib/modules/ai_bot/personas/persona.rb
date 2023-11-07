@@ -8,6 +8,7 @@ module DiscourseAi
         personas << Personas::Artist if SiteSetting.ai_stability_api_key.present?
         personas << Personas::SettingsExplorer
         personas << Personas::Researcher if SiteSetting.ai_google_custom_search_api_key.present?
+        personas << Personas::Mentor 
         personas << Personas::Creative
 
         personas_allowed = SiteSetting.ai_bot_enabled_personas.split("|")

@@ -85,6 +85,7 @@ module DiscourseAi::AiBot::Personas
           SettingsExplorer,
           Researcher,
           Creative,
+          Mentor
         )
       end
 

@@ -273,6 +273,7 @@ discourse_ai:
       - settings_explorer
       - researcher
       - creative
+      - mentor
   ai_bot_add_to_header:
     default: true
     client: true

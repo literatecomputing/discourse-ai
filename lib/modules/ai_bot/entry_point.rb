@@ -51,6 +51,7 @@ module DiscourseAi
         require_relative "personas/sql_helper"
         require_relative "personas/settings_explorer"
         require_relative "personas/researcher"
+        require_relative "personas/mentor"
         require_relative "personas/creative"
         require_relative "site_settings_extension"
       end

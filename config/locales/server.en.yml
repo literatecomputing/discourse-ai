@@ -128,6 +128,9 @@ en:
         researcher:
           name: Researcher
           description: "AI Bot with Google access that can research information for you"
+        mentor:
+          name: Mentor
+          description: "AI Bot that can give you feedback on your work"
         creative:
           name: Creative
           description: "AI Bot with no external integrations specialized in creative tasks"
